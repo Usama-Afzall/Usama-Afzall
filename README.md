@@ -63,6 +63,12 @@ I also run businesses of my own (co-founder of [TRUE FIT Sportswear](https://tru
 
 ---
 
+## Featured product
+
+**[Prism Pilot](https://social.websiteprism.com)** is an AI social media manager I built and run. It learns a business from its website, writes captions in the brand's voice, creates a picture per post and schedules to Facebook, Instagram and LinkedIn, with plans from $19/month. [Read the case study](https://github.com/Usama-Afzall/prism-pilot) (the product source is private).
+
+---
+
 ## Open-source tools
 
 Small, working pieces of the kind of code I ship for clients. Source-available for evaluation. Commercial use needs a licence from me.
