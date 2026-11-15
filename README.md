@@ -65,7 +65,7 @@ I also run businesses of my own (co-founder of [TRUE FIT Sportswear](https://tru
 
 ## Open-source tools
 
-Small, working pieces of the kind of code I ship for clients. Free to use under the MIT license.
+Small, working pieces of the kind of code I ship for clients. Source-available for evaluation. Commercial use needs a licence from me.
 
 | Repository | What it does | Built with |
 |---|---|---|
